@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wgl", "wgl\wgl.vcxproj", "{BDF1ADF6-FB4D-446D-BE04-4E8C1D636763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF1ADF6-FB4D-446D-BE04-4E8C1D636763}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDF1ADF6-FB4D-446D-BE04-4E8C1D636763}.Debug|Win32.Build.0 = Debug|Win32
+		{BDF1ADF6-FB4D-446D-BE04-4E8C1D636763}.Release|Win32.ActiveCfg = Release|Win32
+		{BDF1ADF6-FB4D-446D-BE04-4E8C1D636763}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
